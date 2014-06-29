@@ -49,8 +49,7 @@ The following primtives may be approximated:
 
 * Splines
 
-Splines
-"""""""
+### Splines
 
 De Boor's algorithm may be used to divide a spline into a discrete number of points, which can then
 be imported into EAGLE as a series of line segments.
